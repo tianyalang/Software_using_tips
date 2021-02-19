@@ -2,10 +2,16 @@
 
 总结一些软件在使用中的注意事项
 
-[VS Code](doc/VSCode.md)
+## 编辑器
 
-zotero
+[Excel](doc/Excel.md)
+[Word](doc/Word.md)
+[VS Code](doc/VSCode.md)
+[VNote](doc/VNote.md)
+[TeXstudio](doc/TeXstudio.md)
+
+## 工具类
 
 [GoldenDict](doc/GoldenDict.md)
 [FEMM](doc/FEMM.md)
-[Excel](doc/Excel.md)
+[zotero](doc/Zotero.md)
