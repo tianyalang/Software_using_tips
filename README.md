@@ -12,6 +12,7 @@
 
 ## 工具类
 
+[Github](doc/Git.md)
 [GoldenDict](doc/GoldenDict.md)
 [FEMM](doc/FEMM.md)
 [zotero](doc/Zotero.md)
